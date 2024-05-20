@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\LoadMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\LoadMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\GameMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\GameMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\UIBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\UIBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\StartMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\StartMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\StartMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\StartMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\UIBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\UIBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\LoadMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\LoadMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\GameMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFDB5C23-184D-49C8-8F67-EC9274745362}|ShrinkSnakeGame\\ShrinkSnakeGame.vcxproj|solutionrelative:ShrinkSnakeGame\\GameMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DeveloperKits_And_IDE\\VisualStudio\\202404\\IDE\\VC\\Tools\\MSVC\\14.34.31933\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DeveloperKits_And_IDE\\VisualStudio\\202404\\IDE\\VC\\Tools\\MSVC\\14.34.31933\\include\\xutility||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoadMenu.h",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\LoadMenu.h",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\LoadMenu.h",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\LoadMenu.h",
+              "RelativeToolTip": "ShrinkSnakeGame\\LoadMenu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T13:33:26.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadMenu.cpp",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\LoadMenu.cpp",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\LoadMenu.cpp",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\LoadMenu.cpp",
+              "RelativeToolTip": "ShrinkSnakeGame\\LoadMenu.cpp",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwEcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T13:34:28.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameMenu.h",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\GameMenu.h",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\GameMenu.h",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\GameMenu.h",
+              "RelativeToolTip": "ShrinkSnakeGame\\GameMenu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T04:50:03.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMenu.cpp",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\GameMenu.cpp",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\GameMenu.cpp",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\GameMenu.cpp",
+              "RelativeToolTip": "ShrinkSnakeGame\\GameMenu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T10:29:53.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIBase.cpp",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\UIBase.cpp",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\UIBase.cpp",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\UIBase.cpp",
+              "RelativeToolTip": "ShrinkSnakeGame\\UIBase.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T17:02:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIBase.h",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\UIBase.h",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\UIBase.h",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\UIBase.h",
+              "RelativeToolTip": "ShrinkSnakeGame\\UIBase.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T10:56:42.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartMenu.h",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\StartMenu.h",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\StartMenu.h",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\StartMenu.h",
+              "RelativeToolTip": "ShrinkSnakeGame\\StartMenu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T10:58:38.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartMenu.cpp",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\StartMenu.cpp",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\StartMenu.cpp",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\StartMenu.cpp",
+              "RelativeToolTip": "ShrinkSnakeGame\\StartMenu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T11:01:06.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\Game.cpp",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\Game.cpp",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\Game.cpp",
+              "RelativeToolTip": "ShrinkSnakeGame\\Game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T09:36:03.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.h",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\Game.h",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\Game.h",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\Game.h",
+              "RelativeToolTip": "ShrinkSnakeGame\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T09:33:54.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\main.cpp",
+              "RelativeDocumentMoniker": "ShrinkSnakeGame\\main.cpp",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\SFML\\Project\\ShrinkSnakeGame\\ShrinkSnakeGame\\main.cpp",
+              "RelativeToolTip": "ShrinkSnakeGame\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T09:10:25.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "xmemory",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\VisualStudio\\202404\\IDE\\VC\\Tools\\MSVC\\14.34.31933\\include\\xmemory",
+              "RelativeDocumentMoniker": "..\\..\\..\\VisualStudio\\202404\\IDE\\VC\\Tools\\MSVC\\14.34.31933\\include\\xmemory",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\VisualStudio\\202404\\IDE\\VC\\Tools\\MSVC\\14.34.31933\\include\\xmemory",
+              "RelativeToolTip": "..\\..\\..\\VisualStudio\\202404\\IDE\\VC\\Tools\\MSVC\\14.34.31933\\include\\xmemory",
+              "ViewState": "AQIAAKoHAAAAAAAAAAAowL0HAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T10:41:16.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "xutility",
+              "DocumentMoniker": "E:\\DeveloperKits_And_IDE\\VisualStudio\\202404\\IDE\\VC\\Tools\\MSVC\\14.34.31933\\include\\xutility",
+              "RelativeDocumentMoniker": "..\\..\\..\\VisualStudio\\202404\\IDE\\VC\\Tools\\MSVC\\14.34.31933\\include\\xutility",
+              "ToolTip": "E:\\DeveloperKits_And_IDE\\VisualStudio\\202404\\IDE\\VC\\Tools\\MSVC\\14.34.31933\\include\\xutility",
+              "RelativeToolTip": "..\\..\\..\\VisualStudio\\202404\\IDE\\VC\\Tools\\MSVC\\14.34.31933\\include\\xutility",
+              "ViewState": "AQIAANUAAAAAAAAAAAAnwOYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T10:42:48.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
