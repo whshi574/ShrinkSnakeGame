@@ -6,6 +6,10 @@ SHIWEIHAO: Programmer 🛠️
 
 SHOUWENJUAN: Artist🖌️
 
+Demo:
+
+<video src="E:\DeveloperKits_And_IDE\SFML\Project\ShrinkSnakeGame\Demo.mp4"></video>
+
 ![](Content/Snipaste_2024-05-20_13-05-15.png)
 
 ![](Content/Snipaste_2024-05-20_13-06-42.png)
