@@ -8,7 +8,7 @@ SHOUWENJUAN: Artist🖌️
 
 Demo:
 
-https://github.com/whshi574/ShrinkSnakeGame/blob/master/Demo.mp4
+![](https://github.com/whshi574/ShrinkSnakeGame/blob/master/Demo.mp4)
 
 ![](Content/Snipaste_2024-05-20_13-06-42.png)
 
